@@ -22,5 +22,5 @@ metrics calculation.
 
 To run the training and validation process:
 ```bash
-python train_EfficienetB2.py --epochs [number_of_epochs] --lr [learning_rate_value] --dataset-path [dataset_path] --out-dir [path_to_output_directory]
+python main.py --epochs [number_of_epochs] --lr [learning_rate_value] --dataset-path [dataset_path] --out-dir [path_to_output_directory]
 ```
